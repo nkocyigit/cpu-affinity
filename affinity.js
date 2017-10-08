@@ -1,0 +1,2 @@
+var supportedOSs=[Linux,Windows];
+

@@ -1,0 +1,24 @@
+{
+  "name": "cpu-affinity",
+  "version": "1.0.1",
+  "description": "package for running node processes on desired cpu core(s)",
+  "main": "affinity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nkocyigit/cpu-affinity.git"
+  },
+  "keywords": [
+    "cpu",
+    "affinity",
+    "core"
+  ],
+  "author": "nihat kocyigit <nihatkoc@gmail.com> (@nihat_developer)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nkocyigit/cpu-affinity/issues"
+  },
+  "homepage": "https://github.com/nkocyigit/cpu-affinity#readme"
+}
